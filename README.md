@@ -2,6 +2,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Kakai
 =======
 William
@@ -11,3 +12,13 @@ Nila.
 
 William
 >>>>>>> 806ef30430bf4182b63be0101f684518fc494ca0
+=======
+William
+
+Where is the conflict?
+Nila.
+
+William
+
+1232456
+>>>>>>> 5bbd2871dc481d7ffb5ae24da024cefb9408a82a
