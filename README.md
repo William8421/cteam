@@ -1,7 +1,6 @@
 # cteam
 
 Kakai
-=======
 William
 
 Nila.
