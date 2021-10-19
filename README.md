@@ -18,6 +18,3 @@ Where is the conflict?
 
 this is another branch
 
-Nila Homar
-
-1232456
